@@ -2,3 +2,5 @@
 winxp_ece449VBx.ova
 *.swp
 *.swo
+.gdb_history
+core
